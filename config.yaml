@@ -1,4 +1,4 @@
-baseurl: /
+baseurl: "www.lin23.online"
 languageCode: zh-CN
 title: 为学
 theme: "hugo-ivy"
