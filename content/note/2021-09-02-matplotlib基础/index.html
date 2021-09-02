@@ -1,0 +1,27 @@
+---
+title: matplotlib基础
+author: Lin Gui
+date: '2021-09-02'
+slug: matplotlib基础
+categories:
+  - 学习
+tags:
+  - Python
+  - matplotlib
+---
+
+<script src="{{< blogdown/postref >}}index_files/header-attrs/header-attrs.js"></script>
+
+
+<div id="matplotlib基础" class="section level1">
+<h1>matplotlib基础</h1>
+<pre><code>import numpy as np 
+import matplotlib.pyplot as plt 
+# 计算正弦曲线上点的 x 和 y 坐标
+x = np.arange(0,  3  * np.pi,  0.1) 
+y = np.sin(x)
+plt.title(&quot;sine wave form&quot;)  
+# 使用 matplotlib 来绘制点
+plt.plot(x, y) 
+</code></pre>
+</div>
