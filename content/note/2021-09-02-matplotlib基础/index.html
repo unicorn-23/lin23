@@ -15,13 +15,110 @@ tags:
 
 <div id="matplotlib基础" class="section level1">
 <h1>matplotlib基础</h1>
-<pre><code>import numpy as np 
-import matplotlib.pyplot as plt 
-# 计算正弦曲线上点的 x 和 y 坐标
-x = np.arange(0,  3  * np.pi,  0.1) 
-y = np.sin(x)
-plt.title(&quot;sine wave form&quot;)  
-# 使用 matplotlib 来绘制点
-plt.plot(x, y) 
+<div id="折线图" class="section level2">
+<h2>折线图</h2>
+<div id="基本运用" class="section level3">
+<h3>基本运用</h3>
+<pre class="python"><code>from matplotlib import pyplot as plt #导入pyplot
+x=range(2,26,2)
+y=[15,13,14.5,17,20,25,26,26,24,22,18,15]
+plt.plot(x,y) #通过plot绘制折线图
+plt.show() #展示图像</code></pre>
+</div>
+<div id="设置图形画布大小" class="section level3">
+<h3>设置图形画布大小</h3>
+<pre class="python"><code>#实例化一个figure对象，参数figsize设置图片宽高，dpi可以让图片清晰
+fig=plt.figure(figsize=(20,8),dpi=80)</code></pre>
+</div>
+<div id="存储图片" class="section level3">
+<h3>存储图片</h3>
+<pre class="python"><code>plt.savefig(&quot;./set_size.png&quot;)#存储图片</code></pre>
+</div>
+<div id="设置图形坐标轴" class="section level3">
+<h3>设置图形坐标轴</h3>
+<pre class="python"><code>#设置x轴的刻度
+#xticks(ticks,[labels],**kwargs)
+#参数ticks设置刻度间隔，labels设置刻度信息，其余可传rotation旋转角度，color颜色
+plt.xticks(range(2,25),rotation=60,color=&quot;blue&quot;)
+#设置x轴间隔为0.5
+xtick_label=[i/2 for i in range(2,49)]
+plt.xticks(xtick_label)
+#设置y轴的刻度
+plt.yticks(range(min(y),max(y)+1))</code></pre>
+</div>
+<div id="matplotlib显示中文问题" class="section level3">
+<h3>matplotlib显示中文问题</h3>
+<pre class="python"><code>#需要写在plt.plot(x,y)前
+plt.rcParams[&quot;font.family&quot;] = &#39;Arial Unicode MS&#39;</code></pre>
+</div>
+<div id="添加描述信息" class="section level3">
+<h3>添加描述信息</h3>
+<pre class="python"><code>plt.xlabel(&quot;x轴&quot;)
+plt.ylabel(&quot;y轴&quot;)
+plt.title(&quot;标题&quot;)</code></pre>
+</div>
+<div id="设置网格" class="section level3">
+<h3>设置网格</h3>
+<pre class="python"><code>#alpha设置网格透明度
+plt.grid(alpha=0.4)</code></pre>
+</div>
+<div id="添加图例" class="section level3">
+<h3>添加图例</h3>
+<pre class="python"><code>#label参数用于标记
+plt.plot(x,a,label=&quot;线a&quot;)
+plt.plot(x,b,label=&quot;线b&quot;)
+#legend将label添加到图例
+#参数loc由upper/lower与left/right/center组合，设置图例位置
+plt.legend(loc=&quot;upper left&quot;)</code></pre>
+</div>
+<div id="设置线条样式" class="section level3">
+<h3>设置线条样式</h3>
+<pre class="python"><code>#linestyle -实线 --虚线 -.点划线 :点虚线
+plt.plot(x,y,color=&quot;orange&quot;,linestyle=&quot;--&quot;,linewidth=5,alpha=0.5)</code></pre>
+</div>
+</div>
+<div id="散点图" class="section level2">
+<h2>散点图</h2>
+<pre class="python"><code>plt.scatter(x,y)</code></pre>
+</div>
+<div id="条形图" class="section level2">
+<h2>条形图</h2>
+<pre class="python"><code>plt.bar(x,y)</code></pre>
+<div id="多条条形图时" class="section level3">
+<h3>多条条形图时</h3>
+<pre class="python"><code>from matplotlib import pyplot as plt
+a=[&quot;one&quot;,&quot;two&quot;,&quot;three&quot;]
+b_1=[1,2,3]
+b_2=[2,3,4]
+b_3=[3,4,5]
+#若要b_1,2,3并排展示，可以在plt.bar中width设置条形宽度，并使b_2,3向后移动相应条形宽度，最后在plt.xticks中设置x轴刻度信息
+x_1=list(range(len(a)))
+x_2=[i+0.2 for i in x_1]
+x_3=[i+0.2 for i in x_2]
+plt.bar(x_1,b_1,width=0.2)
+plt.bar(x_2,b_2,width=0.2)
+plt.bar(x_3,b_3,width=0.2)
+plt.xticks(x_2,a)
+plt.show()</code></pre>
+</div>
+<div id="横着的条形图" class="section level3">
+<h3>横着的条形图</h3>
+<pre class="python"><code>#barh中线条宽度weight变为height
+plt.barh(x,y)</code></pre>
+</div>
+</div>
+<div id="直方图" class="section level2">
+<h2>直方图</h2>
+<pre class="python"><code>#hist中参数bins设置组数
+#通过(数据的最大值-最小值)//组距获得组数
+#数据在100以内通常分为5-12组
+bin_width=3#设置组距
+bins=int((max(a)-min(a))//bin_width)#组数=极差/组距
+#density设置显示频数或频率，0为频数，1为频率或用布尔值
+plt.hist(x,bins,density=0)
 </code></pre>
+<div id="section" class="section level3">
+<h3></h3>
+</div>
+</div>
 </div>
