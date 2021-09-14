@@ -11,6 +11,8 @@ tags:
 现在是9月1日，趁还有几日调整调整状态，并明确一下近期目标。
 
 ## 学习目标及其链接
+### 生物相关
+[分子生物学](https://www.bilibili.com/video/BV1vN411o7r3?spm_id_from=333.999.0.0)
 ### R及linux
 
 学习资料来源见[生信技能树](https://mp.weixin.qq.com/s/Y-8YKye2jOw2tSLJnCvBlA)
