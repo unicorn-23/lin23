@@ -12,11 +12,11 @@ tags:
 
 [资料来源](https://www.zhihu.com/question/65066161/answer/1679721749)
 
-R
+### R
 
 [数据预处理](https://zhuanlan.zhihu.com/p/336278893)
 
-生信
+### 生信
 
 [熟悉概念](https://zhuanlan.zhihu.com/p/262198184)
 
@@ -38,6 +38,6 @@ R
 
 [转录组完结](https://zhuanlan.zhihu.com/p/340290527)
 
-统计学
+### 统计学
 
-机器学习
+### 机器学习
