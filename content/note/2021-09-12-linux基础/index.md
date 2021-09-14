@@ -18,7 +18,41 @@ tags:
 | ctrl+l | 清屏 | clear |
 |        |      |       |
 
+**Linux**
 
+【终端登录服务器】：ssh [root@xx.xx.xx.xx](mailto:root@121.5.230.159)
+
+【文本搜索】：grep
+
+【传递数据】：管道符｜
+
+​	history | grep addu :在history命令得到的结果中检索addu
+
+【显示目前登录系统的用户信息】：w
+
+【系统整体运行情况】：top
+
+【睡眠】：sleep
+
+【任务在后台运行】：&
+
+【查看进程】：ps -ef
+
+【查看当前文件夹】：ls [-a(全部) d(目录本身) l(包含属性权限)]
+
+【ip地址】：ifconfig
+
+【显示当前目录】：pwd（print work directory）
+
+【创建文件夹】：mkdir
+
+【删除文件夹】：mrdir
+
+【复制】：cp
+
+【删除文件或目录】：rm
+
+【移动文件与目录】：mv
 
 ## 服务器管理和维护建议
 

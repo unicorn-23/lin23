@@ -21,8 +21,9 @@ tags:
 
 [linux入门](https://www.bilibili.com/video/BV1ds411g7eg)
 
-### 机器学习先导
+### 数据分析
 [numpy,pandas,matplotlib](https://www.bilibili.com/video/BV1hx411d7jb/?spm_id_from=333.788.recommend_more_video.3)
+
 ### 机器学习
 [机器学习](https://www.bilibili.com/video/BV1Wv411h7kN?from=search&seid=2447943507609433127)（李宏毅）
 
