@@ -8,7 +8,10 @@ categories:
 tags:
   - R语言
 ---
+找到了大佬的[r语言文档](https://www.math.pku.edu.cn/teachers/lidf/docs/Rbook/html/_Rbook/index.html)，直接看文档吧
+
 ## 逻辑操作
+
 ### 判断语句
 ```R
 #1. if语句
