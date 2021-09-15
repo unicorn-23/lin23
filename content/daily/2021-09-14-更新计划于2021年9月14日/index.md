@@ -44,7 +44,7 @@ tags:
 ### 机器学习
 -   [x] [KNN(k临近)](https://www.bilibili.com/video/BV13K411H7Zs/?spm_id_from=333.788.recommend_more_video.-1)
 
--   [ ] [Kmeans](https://www.bilibili.com/video/BV1LV411p7Ak?from=search&seid=5897372609860836413&spm_id_from=333.337.0.0)
+-   [x] [Kmeans](https://www.bilibili.com/video/BV1LV411p7Ak?from=search&seid=5897372609860836413&spm_id_from=333.337.0.0)
 
 -   [x] [贝叶斯分类器](https://www.bilibili.com/video/BV1qs411a7mT?from=search&seid=12099725396676193731&spm_id_from=333.337.0.0)
 
