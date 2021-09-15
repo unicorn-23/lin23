@@ -20,26 +20,32 @@ tags:
 
 ### 生信
 
-[熟悉概念](https://zhuanlan.zhihu.com/p/262198184)
+-   [x] [熟悉概念](https://zhuanlan.zhihu.com/p/262198184)
 
-[illumina测序原理](https://zhuanlan.zhihu.com/p/190757472)
+-   [x] [illumina测序原理](https://zhuanlan.zhihu.com/p/190757472)
 
-[转录组](https://zhuanlan.zhihu.com/p/268518822)
+-   [x] [转录组](https://zhuanlan.zhihu.com/p/268518822)
 
-[转录组启动：Miniconda安装|Aspera高速下载测序数据|Fastp质控过滤](https://zhuanlan.zhihu.com/p/303970108)
+-   [x] [转录组启动：Miniconda安装|Aspera高速下载测序数据|Fastp质控过滤](https://zhuanlan.zhihu.com/p/303970108)
 
-[RNA-seq转录组原理](https://zhuanlan.zhihu.com/p/190832351)
+-   [x] [RNA-seq转录组原理](https://zhuanlan.zhihu.com/p/190832351)
 
-[WGCNA全流程分析](https://zhuanlan.zhihu.com/p/268015159)
+-   [x] [WGCNA全流程分析](https://zhuanlan.zhihu.com/p/268015159)
 
-[Trinity 拼接](https://zhuanlan.zhihu.com/p/191573329)
+-   [x] [分析流程](https://zhuanlan.zhihu.com/p/268518822)
 
-[分析流程](https://zhuanlan.zhihu.com/p/268518822)
+-   [ ] [基因预测和功能注释](https://zhuanlan.zhihu.com/p/273612047)
 
-[基因预测和功能注释](https://zhuanlan.zhihu.com/p/273612047)
+-   [ ] [转录组完结](https://zhuanlan.zhihu.com/p/340290527)
 
-[转录组完结](https://zhuanlan.zhihu.com/p/340290527)
 
 ### 统计学
 
 ### 机器学习
+-   [x] [KNN(k临近)](https://www.bilibili.com/video/BV13K411H7Zs/?spm_id_from=333.788.recommend_more_video.-1)
+
+-   [ ] [Kmeans](https://www.bilibili.com/video/BV1LV411p7Ak?from=search&seid=5897372609860836413&spm_id_from=333.337.0.0)
+
+-   [x] [贝叶斯分类器](https://www.bilibili.com/video/BV1qs411a7mT?from=search&seid=12099725396676193731&spm_id_from=333.337.0.0)
+
+[逻辑回归]()
