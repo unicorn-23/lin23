@@ -123,13 +123,15 @@ where, P(x/tr) is the conditional probability of a given class sample, P(tr ) is
 
 ### C. Result Evaluation
 
+结果评价
+
 Generally, accuracy (Q3) and segment overlap measure (SOV) [32] are widely used to evaluate the performance of protein secondary structure prediction.
 
-通常，准确度（Q3）和片段重叠度量（SOV）[32]被广泛用于评估蛋白质二级结构预测的性能。
+通常，准确度（Q3）和片段重叠度量（SOV）被广泛用于评估蛋白质二级结构预测的性能。
 
 According to DSSP [21] regulations, we convert G, H, I into H, E, B into E, and other structures into C. Then Q3 represents the ratio of the number of correctly predicted amino acids in the three states to the entire amino acid sequence. The following formula is the definition of Q3:
 
-根据DSSP[21]规定，我们将G、H、I转换为H、E、B转换为E，将其他结构转换为C。然后Q3表示三种状态中正确预测的氨基酸数量与整个氨基酸序列的比率。以下公式是Q3的定义：
+根据DSSP规定，我们将G、H、I转换为H、E、B转换为E，将其他结构转换为C。然后Q3表示三种状态中正确预测的氨基酸数量与整个氨基酸序列的比率。以下公式是Q3的定义：
 $$
 \begin{equation*} Q_{3} =\frac {S_{C} +S_{E} +S_{H}}{S}\times 100\%\tag{4}\end{equation*}
 $$
@@ -160,6 +162,8 @@ NSov is the sum of the number of residues observed in all overlapping fragments 
 NSov是在SABLUS中所有重叠片段中观察到的残基数量的总和，即Sab片段不具有相同的预测状态。
 
 ## Experimental Results
+
+实验结果
 
 The experimental environment parameters of this paper are as follows: processor Intel(R) Xeon(R) Glod 5118 CPU 2.30GHz, graphics accelerator card RTX 2080Ti, operating system Linux, using Keras 2.3 version to build the model.
 

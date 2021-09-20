@@ -12,14 +12,9 @@ slug: 计划更新于9月16日
 ### 近期任务
 
 -   [ ] [阅读文献](https://ieeexplore.ieee.org/document/9246542/metrics#metrics)并进行复现
-
 -   [x] [神经网络](https://www.bilibili.com/video/BV164411m79z?p=44&spm_id_from=pageDriver)课1
-
 -   [ ] [神经网络](https://www.bilibili.com/video/BV164411m79z?p=44&spm_id_from=pageDriver)课2
-
--   [ ] [神经网络](https://www.bilibili.com/video/BV164411m79z?p=44&spm_id_from=pageDriver)课3
-
+-   [x] [神经网络](https://www.bilibili.com/video/BV164411m79z?p=44&spm_id_from=pageDriver)课3
 -   [ ] [神经网络](https://www.bilibili.com/video/BV164411m79z?p=44&spm_id_from=pageDriver)课4
-
--   [ ] 生成对抗网络
+-   [ ] [pytorch+深度学习，李宏毅](https://www.bilibili.com/video/BV1Wv411h7kN?spm_id_from=333.788.b_636f6d6d656e74.6)，生成对抗网络
 

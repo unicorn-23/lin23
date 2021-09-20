@@ -13,13 +13,14 @@ tags:
 
 ## 需学习
 
-生成对抗
+-   [ ] [生成对抗](https://www.bilibili.com/video/BV1Wv411h7kN?spm_id_from=333.788.b_636f6d6d656e74.6)，李宏毅的课
 
-[神经网络](https://www.bilibili.com/video/av66314465?spm_id_from=333.788.b_636f6d6d656e74.4)
 
-[卷积神经网络](https://www.bilibili.com/video/av66646276?spm_id_from=333.788.b_636f6d6d656e74.7)
+-   [x] [神经网络](https://www.bilibili.com/video/av66314465?spm_id_from=333.788.b_636f6d6d656e74.4)
 
-[BLAST使用](https://www.bilibili.com/video/BV16t4y1v7ZN?from=search&seid=17654661102206372449&spm_id_from=333.337.0.0)
+-   [x] [卷积神经网络](https://www.bilibili.com/video/av66646276?spm_id_from=333.788.b_636f6d6d656e74.7)
+
+-   [ ] [BLAST使用](https://www.bilibili.com/video/BV16t4y1v7ZN?from=search&seid=17654661102206372449&spm_id_from=333.337.0.0)
 
 ## 知识点
 
