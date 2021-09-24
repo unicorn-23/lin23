@@ -16,7 +16,7 @@ tags:
 
 ### R
 
-[数据预处理](https://zhuanlan.zhihu.com/p/336278893)
+-   [ ] [数据预处理](https://zhuanlan.zhihu.com/p/336278893)
 
 ### 生信
 
@@ -47,5 +47,3 @@ tags:
 -   [x] [Kmeans](https://www.bilibili.com/video/BV1LV411p7Ak?from=search&seid=5897372609860836413&spm_id_from=333.337.0.0)
 
 -   [x] [贝叶斯分类器](https://www.bilibili.com/video/BV1qs411a7mT?from=search&seid=12099725396676193731&spm_id_from=333.337.0.0)
-
-[逻辑回归]()

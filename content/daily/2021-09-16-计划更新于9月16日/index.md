@@ -9,7 +9,7 @@ tags:
 slug: 计划更新于9月16日
 ---
 
-### 近期任务
+### 重新整理近期任务
 
 -   [ ] [阅读文献](https://ieeexplore.ieee.org/document/9246542/metrics#metrics)并进行复现
 -   [x] [神经网络](https://www.bilibili.com/video/BV164411m79z?p=44&spm_id_from=pageDriver)课1

@@ -9,6 +9,7 @@ tags:
   - R语言
 ---
 ## day1
+
 #安装包
 install.packages('ggplot2')
 #查看包版本

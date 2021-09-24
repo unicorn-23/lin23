@@ -17,10 +17,9 @@ tags:
 
 
 -   [x] [神经网络](https://www.bilibili.com/video/av66314465?spm_id_from=333.788.b_636f6d6d656e74.4)
-
 -   [x] [卷积神经网络](https://www.bilibili.com/video/av66646276?spm_id_from=333.788.b_636f6d6d656e74.7)
-
 -   [ ] [BLAST使用](https://www.bilibili.com/video/BV16t4y1v7ZN?from=search&seid=17654661102206372449&spm_id_from=333.337.0.0)
+-   [ ] [pytorch](https://tangshusen.me/Dive-into-DL-PyTorch/)
 
 ## 知识点
 
