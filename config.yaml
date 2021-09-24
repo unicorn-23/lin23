@@ -29,8 +29,8 @@ menu:
     - name: "标签"
       url: "/tags/"
       weight: 5
-    - name: "订阅"
-      url: "/index.xml"
+    #- name: "订阅"
+    #  url: "/index.xml"
 
 params:
   description: "天下事有难易乎？"
