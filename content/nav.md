@@ -2,7 +2,7 @@
 title: 导航
 ---
 ### 学习相关
-[统计之都](https://d.cosx.org) | [bookdown](https://bookdown.org) | 
+[统计之都](https://d.cosx.org) | [bookdown](https://bookdown.org) | [biopython](https://biopython-cn.readthedocs.io/zh_CN/latest/)
 
 ### 数据库
 

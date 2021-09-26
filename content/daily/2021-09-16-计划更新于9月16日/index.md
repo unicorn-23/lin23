@@ -16,5 +16,4 @@ slug: 计划更新于9月16日
 -   [ ] [神经网络](https://www.bilibili.com/video/BV164411m79z?p=44&spm_id_from=pageDriver)课2
 -   [x] [神经网络](https://www.bilibili.com/video/BV164411m79z?p=44&spm_id_from=pageDriver)课3
 -   [ ] [神经网络](https://www.bilibili.com/video/BV164411m79z?p=44&spm_id_from=pageDriver)课4
--   [ ] [pytorch+深度学习，李宏毅](https://www.bilibili.com/video/BV1Wv411h7kN?spm_id_from=333.788.b_636f6d6d656e74.6)，生成对抗网络
 
