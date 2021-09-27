@@ -19,9 +19,9 @@ tags:
 
 
 
-[卷积神经网络科普视频](https://www.bilibili.com/video/BV1sb411P7pQ?spm_id_from=333.999.0.0)
+视频-[卷积神经网络科普视频](https://www.bilibili.com/video/BV1sb411P7pQ?spm_id_from=333.999.0.0)
 
-[卷积神经网络视频](https://www.bilibili.com/video/BV1AJ411Q72b?spm_id_from=333.999.0.0)
+视频-[卷积神经网络视频](https://www.bilibili.com/video/BV1AJ411Q72b?spm_id_from=333.999.0.0)
 
 文档-[biopython](https://biopython-cn.readthedocs.io/zh_CN/latest/)
 
@@ -37,9 +37,20 @@ tags:
 
 知识点-[batch、epoch的关系](https://blog.csdn.net/qq_37274615/article/details/81147013)
 
-[基于长短期记忆神经网络的蛋白质二级结构预测](https://blog.csdn.net/qq_34218255/article/details/83114285)当中有cb513的readme
+文献-[基于长短期记忆神经网络的蛋白质二级结构预测](https://blog.csdn.net/qq_34218255/article/details/83114285)当中有cb513的readme
 
 数据集-[cb513](https://www.princeton.edu/~jzthree/datasets/ICML2014/)
 
 ## 9月26日
 
+视频-[吴恩达团队的tensorflow](https://www.bilibili.com/video/BV1zE411T7nb?p=19)
+
+tensorflow函数[placeholder作用](https://zhuanlan.zhihu.com/p/81040163)
+
+
+
+代码-[蛋白质二级结构预测，卷积神经网络可以用版本](https://github.com/LucaAngioloni/ProteinSecondaryStructure-CNN)
+
+## 9月27日
+
+看完代码
