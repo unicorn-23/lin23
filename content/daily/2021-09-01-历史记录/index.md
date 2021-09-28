@@ -1,5 +1,5 @@
 ---
-title: 历史记录
+dstitle: 历史记录
 author: Package Build
 date: '2021-09-01'
 slug: 历史记录
@@ -53,4 +53,25 @@ tensorflow函数[placeholder作用](https://zhuanlan.zhihu.com/p/81040163)
 
 ## 9月27日
 
-看完代码
+基本看完代码
+
+## 9月28日
+
+视频-[GANS](https://www.bilibili.com/video/BV1Tv411e7fC?p=3&spm_id_from=pageDriver)
+
+文献-[使用综合生物医学网络预测与疾病相关的基因](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-016-3263-4)
+
+
+
+综述-[Multi-Disease Prediction Based on Deep Learning: A Survey](https://www.techscience.com/CMES/v128n2/43921)
+
+文献-[深度学习及其在生物医学中的应用](https://www.sciencedirect.com/science/article/pii/S1672022918300020)
+
+
+
+
+
+文献-[用于计算药物开发和发现的图卷积网络](https://academic.oup.com/bib/article/21/3/919/5498046)
+
+文献-[人工智能到深度学习：药物发现的机器智能方法](https://link.springer.com/article/10.1007%2Fs11030-021-10217-3)
+

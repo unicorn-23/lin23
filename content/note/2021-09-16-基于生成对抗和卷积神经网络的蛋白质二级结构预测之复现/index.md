@@ -67,3 +67,10 @@ The test set used CASP data set, including CASP9, CASP10, CASP11 and CASP12. In 
 4.  google
 
 当前任务是：学习卷积神经网络、处理数据、生成对抗网络
+
+-   [x] 学习卷积神经网络
+
+-   [x] 处理数据
+
+-   [ ] 生成对抗网络
+-   [x] 构建模型
