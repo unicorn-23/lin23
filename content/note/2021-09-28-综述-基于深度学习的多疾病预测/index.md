@@ -1,8 +1,8 @@
 ---
-title: 文献学习
+title: 综述-基于深度学习的多疾病预测
 author: Package Build
 date: '2021-09-28'
-slug: 文献学习
+slug: 综述-基于深度学习的多疾病预测
 categories:
   - 学习
 tags:
