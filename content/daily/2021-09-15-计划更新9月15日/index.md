@@ -1,12 +1,12 @@
 ---
 title: 计划更新9月15日
-author: Package Build
+author: Lin Gui
 date: '2021-09-15'
-slug: 计划更新9月15日
 categories:
   - 日常
 tags:
   - 计划
+slug: 计划更新9月15日
 ---
 ### TOP
 

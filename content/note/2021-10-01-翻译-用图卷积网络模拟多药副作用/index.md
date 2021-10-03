@@ -1,6 +1,6 @@
 ---
 title: 翻译-用图卷积网络模拟多药副作用
-author: Package Build
+author: Lin Gui
 date: '2021-10-01'
 slug: 翻译-用图卷积网络模拟多药副作用
 categories:

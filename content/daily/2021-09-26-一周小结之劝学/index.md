@@ -1,6 +1,6 @@
 ---
 title: 一周小结之劝学
-author: Package Build
+author: Lin Gui
 date: '2021-09-26'
 categories:
   - 日常

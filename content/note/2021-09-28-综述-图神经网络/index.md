@@ -1,6 +1,6 @@
 ---
 title: 综述-图神经网络
-author: Package Build
+author: Lin Gui
 date: '2021-09-28'
 slug: 综述-图神经网络
 categories:

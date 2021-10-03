@@ -1,6 +1,6 @@
 ---
 title: 笔记-用图卷积网络模拟多药副作用
-author: Package Build
+author: Lin Gui
 date: '2021-09-29'
 slug: 笔记-用图卷积网络模拟多药副作用
 categories:

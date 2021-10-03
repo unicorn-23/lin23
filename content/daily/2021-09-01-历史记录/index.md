@@ -1,15 +1,21 @@
 ---
 title: 历史记录
-author: Package Build
+author: Lin Gui
 date: '2021-09-01'
-slug: 历史记录
 categories:
   - 日常
 tags:
-  - 博客
+  - 历史记录
+slug: 历史记录
 ---
 
 ## 9月24日
+
+AlphaFold-目前最强的蛋白质二级结构预测
+
+-   文献-[AlphaFold的文献](https://www.nature.com/articles/s41586-021-03819-2#Abs1)
+
+-   代码-[AlphaFold的源码](https://github.com/deepmind/alphafold)
 
 讲座-[深度学习的蛋白质结构预测](https://www.bilibili.com/video/BV1uo4y1y7FB?from=search&seid=15263400531421628505&spm_id_from=333.337.0.0) [*相关笔记*]()
 
@@ -97,5 +103,12 @@ tensorflow函数[placeholder作用](https://zhuanlan.zhihu.com/p/81040163)
 
 知识点-[图嵌入](https://zhuanlan.zhihu.com/p/62629465)
 
+## 10月2日
 
+文献-[利用药物描述和分子结构从文献中提取药物-药物相互作用](https://academic.oup.com/bioinformatics/article/37/12/1739/5938075)
 
+文献-[DeepDDS：具有注意机制的深度图神经网络，用于预测协同药物组合](https://www.researchgate.net/publication/353043081_DeepDDS_deep_graph_neural_network_with_attention_mechanism_to_predict_synergistic_drug_combinations)
+
+代码-[DeepDDS：具有注意机制的深度图神经网络，用于预测协同药物组合](https://github.com/NWPU-903PR/DPDDI)
+
+合集-[图神经网络合集](https://zhuanlan.zhihu.com/p/63715732)

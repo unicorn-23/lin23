@@ -1,6 +1,6 @@
 ---
 title: 宁静致远之宁静致远
-author: Package Build
+author: Lin Gui
 date: '2021-09-19'
 slug: 宁静致远之宁静致远
 categories:
