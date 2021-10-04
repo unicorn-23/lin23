@@ -112,3 +112,13 @@ tensorflow函数[placeholder作用](https://zhuanlan.zhihu.com/p/81040163)
 代码-[DeepDDS：具有注意机制的深度图神经网络，用于预测协同药物组合](https://github.com/NWPU-903PR/DPDDI)
 
 合集-[图神经网络合集](https://zhuanlan.zhihu.com/p/63715732)
+
+## 10月3日
+
+视频-[吴恩达循环神经网络](https://www.bilibili.com/video/av66647398?p=5&spm_id_from=pageDriver)
+
+文献-[[用于结构分类的监督神经网络](https://sci-hub.se/https://ieeexplore.ieee.org/abstract/document/572108)
+
+文献-[大型图的归纳表示学习](https://arxiv.org/pdf/1706.02216v2.pdf)
+
+文献-[用于简单链路预测的复杂嵌入](https://arxiv.org/pdf/1606.06357.pdf)

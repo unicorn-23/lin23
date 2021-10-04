@@ -2,11 +2,11 @@
 title: 知识点-分子生物学
 author: Lin Gui
 date: '2021-09-13'
+slug: 知识点-分子生物学
 categories:
-  - 学习
+  - 日常
 tags:
-  - 知识点
-slug: 分子生物学
+  - 博客
 ---
 
 # 分子生物学
@@ -45,7 +45,7 @@ slug: 分子生物学
 
     watson和crick提出，脱氧核糖酸**DNA双螺旋结构模型**。
 
-    Crick于1954年提出**[中心法则](/note/2021/09/13/中心法则/)**
+    Crick于1954年提出[中心法则](/note/2021/09/13/中心法则/)
 
     Meselson和Stahl证明了**DNA半保留复制**
 

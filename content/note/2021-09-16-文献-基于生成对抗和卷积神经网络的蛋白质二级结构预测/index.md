@@ -11,7 +11,7 @@ slug: 文献-基于生成对抗和卷积神经网络的蛋白质二级结构预�
 
 # Protein Secondary Structure Prediction Based on Generative Confrontation and Convolutional Neural Network
 
-**[基于**生成对抗**和**卷积神经网络**的蛋白质二级结构预测](https://ieeexplore.ieee.org/document/9246542/metrics#metrics)**
+[基于生成对抗和卷积神经网络的蛋白质二级结构预测原文](https://ieeexplore.ieee.org/document/9246542/metrics#metrics)
 
 ## Abstract
 

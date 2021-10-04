@@ -247,11 +247,11 @@ $$
 P(c_i=x|c_{i-1}=v)=
 \begin{cases}
 \frac{\pi_{vx}}{Z},&{if(v,x)\in E}
-\\0,& {otherwise}
+\\ 0,& {otherwise}
 \end{cases}
-\\c_i-下一个选择的节点x
-\\c_{i-1}-当前节点v
-\\\pi_{vx}-原始概率分布，Z-归一化
+\\ c_i-下一个选择的节点x
+\\ c_{i-1}-当前节点v
+\\ \pi_{vx}-原始概率分布，Z-归一化
 $$
 
 $$

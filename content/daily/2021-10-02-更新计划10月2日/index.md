@@ -17,7 +17,7 @@ tags:
 
 1、**Supervised Neural Networks for the Classification of Structures.** IEEE TNN 1997
 
--   [ ] [用于结构分类的监督神经网络](https://sci-hub.se/https://ieeexplore.ieee.org/abstract/document/572108)
+-   [x] [用于结构分类的监督神经网络](https://sci-hub.se/https://ieeexplore.ieee.org/abstract/document/572108)
 
 2、**Graphical-Based Learning Environments for Pattern Recognition.** SSPR/SPR 2004
 
@@ -34,3 +34,11 @@ tags:
 5、**Deep Convolutional Networks on Graph-Structured Data.** arxiv 2015
 
 -   [ ] [图形结构数据的深度卷积网络](https://arxiv.org/pdf/1506.05163.pdf)
+
+------
+
+与文献**用图卷积网络模拟多药副作用**相关decagon这篇
+
+文献-[大型图的归纳表示学习](https://arxiv.org/pdf/1706.02216v2.pdf)
+
+文献-[用于简单链路预测的复杂嵌入](https://arxiv.org/pdf/1606.06357.pdf)

@@ -1,8 +1,8 @@
 ---
-title: 宁静致远之宁静致远
+title: 一周小结之宁静致远
 author: Lin Gui
 date: '2021-09-19'
-slug: 宁静致远之宁静致远
+slug: 一周小结之宁静致远
 categories:
   - 日常
 tags:
