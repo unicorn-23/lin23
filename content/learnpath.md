@@ -7,6 +7,12 @@ title: 学习路径
 
 ### 科研方向
 
+-   [x] 神经网络
+-   [x] 卷积神经网络
+-   [x] 循环神经网络
+-   [x] 图神经网络
+-   [ ] 生物信息数据库
+
 ### 就业方向
 
 [资料来源](https://github.com/Snailclimb/JavaGuide)
