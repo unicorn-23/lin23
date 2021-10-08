@@ -42,3 +42,14 @@ tags:
 文献-[大型图的归纳表示学习](https://arxiv.org/pdf/1706.02216v2.pdf)
 
 文献-[用于简单链路预测的复杂嵌入](https://arxiv.org/pdf/1606.06357.pdf)
+
+
+
+------
+
+-   [ ] [药物相互作用检测的计算方法综述](https://sci-hub.se/downloads/2021-06-15/1a/qiu2021.pdf?rand=615c25ee7e50b?download=true)
+
+-   [ ] [预测药物相互作用的机器学习框架](https://www.nature.com/articles/s41598-021-97193-8.pdf)
+
+-   [ ] [利用药物发现中的深度学习预测药物不良事件](https://sci-hub.se/https://doi.org/10.1093/bib/bbaa040)
+

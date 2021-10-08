@@ -1,12 +1,6 @@
 ---
 title: 历史记录
 author: Lin Gui
-date: '2021-09-01'
-categories:
-  - 日常
-tags:
-  - 历史记录
-slug: 历史记录
 ---
 
 ## 9月24日
@@ -122,3 +116,36 @@ tensorflow函数[placeholder作用](https://zhuanlan.zhihu.com/p/81040163)
 文献-[大型图的归纳表示学习](https://arxiv.org/pdf/1706.02216v2.pdf)
 
 文献-[用于简单链路预测的复杂嵌入](https://arxiv.org/pdf/1606.06357.pdf)
+
+## 10月4日
+
+视频-[SELF演讲林群院士：教科书讲得太复杂，学微积分只需要一个案例](https://www.bilibili.com/video/BV1g4411D7bg/?spm_id_from=333.788.recommend_more_video.2)
+
+视频-[难懂的数学傅里叶、拉普拉斯、卷积、欧拉方程、梯度散度、拉格朗日方程、](https://www.bilibili.com/video/BV1kX4y1u7GJ/?spm_id_from=333.788.recommend_more_video.4)
+
+视频-[图神经网络GNN从入门到精通](https://www.bilibili.com/video/BV1K5411H7EQ?p=9&spm_id_from=pageDriver)
+
+视频-[卷积究竟卷了啥？——17分钟了解什么是卷积](https://www.bilibili.com/video/BV1JX4y1K7Dr/?spm_id_from=333.788.recommend_more_video.8)
+
+视频-[从“卷积”、到“图像卷积操作”、再到“卷积神经网络”，“卷积”意义的3次改变](https://www.bilibili.com/video/BV1VV411478E/?spm_id_from=333.788.recommend_more_video.-1)
+
+## 10月5日
+
+知识点-[如何理解sparse.csr_matrix](https://zhuanlan.zhihu.com/p/36122299)
+
+## 10月6日
+
+视频-[怎么读文献](https://www.bilibili.com/video/BV1H741157h8?from=search&seid=17539842583335431300&spm_id_from=333.337.0.0)
+
+合集-[研究生相关问题](https://www.bilibili.com/read/cv7813708?spm_id_from=333.788.b_636f6d6d656e74.6)
+
+知识点-[隐马尔可夫](https://www.cnblogs.com/fulcra/p/11065474.html)
+
+## 10月7日
+
+视频-[韩顺平java概况](https://www.bilibili.com/video/BV14K4y177Qk)
+
+合集-[java学习路径](https://snailclimb.gitee.io/javaguide/#/?id=java)
+
+视频-[零基础java](https://www.bilibili.com/video/BV1fh411y7R8?spm_id_from=333.999.0.0)
+

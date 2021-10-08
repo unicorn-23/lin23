@@ -10,10 +10,10 @@ title: 导航
 
 ### 文献相关
 
-[知网](https://www.hzlib.net/szzysjk/364.htm) | [web of science](https://www.webofscience.com/wos/alldb/basic-search) | IEEE
+[知网](https://www.hzlib.net/szzysjk/364.htm) | [web of science](https://www.webofscience.com/wos/alldb/basic-search) | 
 
 ### 工具相关
-[文献下载](https://tool.yovisun.com/scihub/) | 
+[文献下载](https://tool.yovisun.com/scihub/) | [谷歌学术镜像](https://ac.scmor.com)
 
 ### 博客相关
 [blogdown文档](https://bookdown.org/yihui/blogdown/) | 

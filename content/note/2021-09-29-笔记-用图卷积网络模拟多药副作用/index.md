@@ -204,7 +204,7 @@ $$
 
 视频-[图神经网络](https://www.bilibili.com/video/BV1rf4y1v7cU?from=search&seid=3049841254738316942&spm_id_from=333.337.0.0)
 
-**图嵌入，graph embedding**
+### 图嵌入，graph embedding
 
 **图游走类模型**：在图上进行游走，得到多条游走序列
 
@@ -222,7 +222,7 @@ hidden层：对应center word的低维向量
 
 output层：softmax层
 
-![](index.assets/image-20210930154354460.png)
+<img src="index.assets/image-20210930154354460.png" style="zoom:50%;" />
 
 **Negative Sampling**：负采样方法优化softmax，如果要计算词表内所有单词的概率，那计算量会很大。将中心词和上下文设置为正样本，选取一定的负样本，就不需要计算所有词的概率，只需要对这几个样本进行分类。将softmax层变成了多个sigmoid层，从而减少计算量。
 
@@ -255,14 +255,26 @@ P(c_i=x|c_{i-1}=v)=
 $$
 
 $$
-\\\frac{\pi_{vx}}{Z}=\frac{1}{|N(v)|}
-\\|N(v)|-当前节点邻居节点的个数
-\\对{\pi_{vx}}进行归一化，概率值就是\frac{1}{|N(v)|}
+\frac{\pi_{vx}}{Z}=\frac{1}{|N(v)|}
+\\ |N(v)|-当前节点邻居节点的个数
+\\ 对{\pi_{vx}}进行归一化，概率值就是\frac{1}{|N(v)|}
 $$
 
 **DeepWalk整体架构**：Graph->Random Walk+Skip Gram+Negative Sampling
 
 图游走算法和Word2Vec的区别主要在于RandomWalk，将Graph通过RandomWalk提取序列之后的步骤和Word2Vec是一样的。
+
+------
+
+**LINE**：large-scale information network embedding，在大规模的图上，表示节点之间的结构信息，deepwalk在无向图中，LINE可以在有向图使用
+
+一阶相似性：
+
+如果两个节点连接，并且相连边的权重比较大，则这两个节点的embedding很相近。表示局部的结构信息
+
+二阶相似性：
+
+如果两个节点不连接，但他们的共享邻居很相似，那这两个邻居的embedding应该也是很相似的。
 
 ------
 
@@ -308,6 +320,16 @@ $$
 
 ------
 
+### struc2vec
+
+之前node embedding的方式，都是基于近邻关系，但是有些节点没有近邻，但也有相似的结构性。
+
+<img src="index.assets/image-20211004172131103.png" style="zoom:50%;" />
+
+
+
+------
+
 **同构图**：在图里面，节点的类型和边的类型只有一种的图，举个例子，像社交网络中只存在一种节点类型，用户节点和一种边的类型，用户-用户之间的连边。
 
 **异构图**：在图里面，节点的类型+边的类型>2的一种图，举个例子，论文引用网络中，存在着作者节点和paper节点，边的关系有作者-作者之间的共同创作关系连边，作者-论文之间的从属关系，论文-论文之间的引用关系。
@@ -320,6 +342,8 @@ $$
 2.  偏向于相对集中的节点（度数高的节点）
 
 DeepWalk和Node2vec适合同构图，在异构图上使用DeepWalk和Node2vec会导致不能让出现频率低的节点充分得到训练。
+
+------
 
 ### Metapath2vec模型
 
