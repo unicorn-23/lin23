@@ -1,12 +1,12 @@
 ---
-title: 知识点-生信相关名词解释
+title: 知识点-生信名词解释1
 author: Lin Gui
 date: '2021-09-15'
 categories:
   - 学习
 tags:
   - 知识点
-slug: 知识点-生信名词解释
+slug: 知识点-生信名词解释1
 ---
 
 [资料来源](https://zhuanlan.zhihu.com/p/262198184)

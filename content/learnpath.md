@@ -12,6 +12,9 @@ title: 学习路径
 -   [x] 循环神经网络
 -   [x] 图神经网络
 -   [ ] 生物信息数据库
+    -   [x] NCBI Gene
+    -   [x] NCBI Nucleotide
+    -   [x] Genbank
 
 ### 就业方向
 

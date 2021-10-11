@@ -29,9 +29,12 @@ menu:
     - name: "文献整理"
       url: "/docarrange"
       weight: 5
+    - name: "生信数据库"
+      url: "/biodatabase"
+      weight: 6
     - name: "历史记录"
       url: "/history"
-      weight: 6
+      weight: 7
     - name: "导航"
       url: "/nav/"
       weight: 8

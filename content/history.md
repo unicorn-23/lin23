@@ -149,3 +149,37 @@ tensorflow函数[placeholder作用](https://zhuanlan.zhihu.com/p/81040163)
 
 视频-[零基础java](https://www.bilibili.com/video/BV1fh411y7R8?spm_id_from=333.999.0.0)
 
+## 10月9日
+
+视频-[生物信息数据库](https://www.bilibili.com/video/BV19f4y1s78y?p=2)
+
+知识点-[为什么智人Homo sapiens sapiens中有两个sapiens](https://www.zhihu.com/question/65673615)
+
+音乐-[这世界这么多人](https://www.bilibili.com/video/BV1Xr4y117B4/?spm_id_from=333.788.recommend_more_video.-1)
+
+知识点-[Gene ID或转录本快速查找方法](https://www.ribobio.com/service-and-support/gene-id-search/)
+
+知识点-[在NCBI上怎么找到一个基因的外显子和内含子？](https://zhidao.baidu.com/question/1994586621623062827.html)
+
+## 10月10日
+
+知识点-[标准化和归一化](https://www.zhihu.com/question/361290840/answer/939504181)
+
+视频-[NCBI数据库简介](https://www.bilibili.com/video/BV1Bs411z7Fu/?spm_id_from=333.788.recommend_more_video.0)
+
+视频-[NCBI网站的使用](https://www.bilibili.com/video/BV1AW411S7yB/?spm_id_from=333.788.recommend_more_video.2)
+
+知识点-[基因、核苷酸、碱基对之间关系](https://zhidao.baidu.com/question/590494256544549125.html)
+
+视频-[DNA复制](https://www.bilibili.com/video/BV1yJ411y7Rb?from=search&seid=8688922915000407426&spm_id_from=333.337.0.0)，笔记于pad
+
+视频-[启动子、终止子](https://www.bilibili.com/video/BV1CE411G7A4?spm_id_from=333.999.0.0)，笔记于pad
+
+视频-[转录与翻译](https://www.bilibili.com/video/BV1Zi4y1b7ih?spm_id_from=333.999.0.0)，笔记于pad
+
+视频-[DNA分子结构](https://www.bilibili.com/video/BV17p4y117GE?spm_id_from=333.999.0.0)，笔记于pad
+
+## 10月11日
+
+视频-[核苷酸数据库，Genbank,FASTA](https://www.bilibili.com/video/BV1gR4y1p7Fk?from=search&seid=15401893481535071285&spm_id_from=333.337.0.0)
+
