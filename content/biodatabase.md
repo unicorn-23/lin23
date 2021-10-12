@@ -8,11 +8,11 @@ title: 生物信息数据库
 
 ### 笔记
 
-[NCBI简介](/note/2021/10/10/生物数据库-ncbi/)、[NCBI-Gene](/note/2021/10/09/生物数据库-ncbi-gene/)、[NCBI-Nucleotide](/note/2021/10/09/生物数据库-ncbi-gene-nucleotide/)、[NCBI-GenBank](/note/2021/10/11/生物数据库-ncbi-gene-genbank/)
+[NCBI简介](/note/2021/10/10/生物数据库-ncbi/)、[NCBI-Gene](/note/2021/10/09/生物数据库-ncbi-gene/)、[NCBI-Nucleotide](/note/2021/10/10/生物数据库-ncbi-nucleotide/)、[NCBI-GenBank](/note/2021/10/11/生物数据库-ncbi-genbank/)
 
 ### 工具
 
-[BLAST](/note/2021/10/12/生物数据库-ncbi-gene-blast/)
+[BLAST](/note/2021/10/12/生物数据库-ncbi-blast/)
 
 ### 基因组数据库
 
@@ -20,7 +20,7 @@ UCSC、Ensembl、MGD、SGD
 
 ### 核苷酸序列数据库
 
-[NCBI-GenBank](/note/2021/10/11/生物数据库-ncbi-gene-genbank/)、DDBJ、EMBL
+[NCBI-GenBank](/note/2021/10/11/生物数据库-ncbi-genbank/)、DDBJ、EMBL
 
 ### 蛋白序列数据库
 
