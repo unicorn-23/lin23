@@ -43,7 +43,7 @@ AlphaFold-目前最强的蛋白质二级结构预测
 
 视频-[吴恩达团队的tensorflow](https://www.bilibili.com/video/BV1zE411T7nb?p=19)
 
-tensorflow函数[placeholder作用](https://zhuanlan.zhihu.com/p/81040163)
+知识点-tensorflow函数[placeholder作用](https://zhuanlan.zhihu.com/p/81040163)
 
 代码-[蛋白质二级结构预测，卷积神经网络可以用版本](https://github.com/LucaAngioloni/ProteinSecondaryStructure-CNN)
 
@@ -145,7 +145,7 @@ tensorflow函数[placeholder作用](https://zhuanlan.zhihu.com/p/81040163)
 
 视频-[韩顺平java概况](https://www.bilibili.com/video/BV14K4y177Qk)
 
-合集-[java学习路径](https://snailclimb.gitee.io/javaguide/#/?id=java)
+指南-[java学习路径](https://snailclimb.gitee.io/javaguide/#/?id=java)
 
 视频-[零基础java](https://www.bilibili.com/video/BV1fh411y7R8?spm_id_from=333.999.0.0)
 
