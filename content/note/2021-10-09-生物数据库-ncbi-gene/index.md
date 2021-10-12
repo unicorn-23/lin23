@@ -223,14 +223,14 @@ Gene Ontology，其中包含function，有什么功能。process，参与的生�
 
 ### 关于MYC的总结
 
--   MYC位于8号染色体q24.21上：在Genomic context的location:8q24.21
--   有两个转录本，每个转录本均有3个外显子：
+-   **MYC位于8号染色体q24.21上：**在Genomic context的location:8q24.21
+-   **有两个转录本，每个转录本均有3个外显子：**
     1.  在 Genomic regions, transcripts, and products中的模式图，可以在NCBI Homo sapiens Annotation Release中看到两条Transcript ID：NM_001354870.1和NM_002467.6，其中三段带箭头的绿色矩形代表了他的Exon外显子
     2.  在NCBI Reference Sequence（RefSeq）的mRNA and Protein(s)中有两个Transcript ID：NM_001354870.1和NM_002467.6
--   正向转录：在Genomic context的图中看到MYC的箭头朝右是正向转录
--   临近基因有CASC11、PVT1等：在Genomic context的图中可以看到
--   MYC基因在启动子区域有多个DNase信号富集，可能受到其他转录因子或表观遗传修饰的调节：可以在基因组元件对应部分看到
--   H3K4me3信号较强，表达水平可能较高，在第一个内含子和前两个外显子区域存在两个CpG岛，可能与DNA甲基化有关，在食道、胆囊表达水平较高，在肾、心脏、甲状腺表达水平较低：可以在模式图中点击Tracks，选择NCBI Recommended Track Sets中的Epigenomics，看到
--   文献上看，多与癌症有关，OMIM显示MYC与淋巴瘤有关，GWAS显示多在癌症中发生变异：可以在Bibliography和Phenotypes中看到
--   参与癌症的信号通路，与细胞周期、凋亡等生物过程有关：Pathways
+-   **正向转录：**在Genomic context的图中看到MYC的箭头朝右是正向转录
+-   **临近基因有CASC11、PVT1等：**在Genomic context的图中可以看到
+-   **MYC基因在启动子区域有多个DNase信号富集，可能受到其他转录因子或表观遗传修饰的调节：**可以在基因组元件对应部分看到
+-   **H3K4me3信号较强，表达水平可能较高，在第一个内含子和前两个外显子区域存在两个CpG岛，可能与DNA甲基化有关，在食道、胆囊表达水平较高，在肾、心脏、甲状腺表达水平较低：**可以在模式图中点击Tracks，选择NCBI Recommended Track Sets中的Epigenomics，看到
+-   **文献上看，多与癌症有关，OMIM显示MYC与淋巴瘤有关，GWAS显示多在癌症中发生变异：**可以在Bibliography和Phenotypes中看到
+-   **参与癌症的信号通路，与细胞周期、凋亡等生物过程有关：**Pathways
 
