@@ -103,23 +103,25 @@ xxx[sym] AND yyy[orgn]
 
 ![genomic-context](index.assets/image-20211009150429905.png)
 
-Genomic context：查看基因在哪个染色体上
+Genomic context：查看基因在哪个染色体上。
 
 ![image-20211009184051138](index.assets/image-20211009184051138.png)
 
-MYC后面的箭头指向右边代表他是正向转录的，旁边的MIR1204和下面的表示他的临近基因
+MYC后面的箭头指向右边代表他是正向转录的，旁边的MIR1204和下面的表示他的临近基因。
 
 点击右上角的Genome Data Viewer，可以看到。
 
 ![data viewer](index.assets/image-20211009191749099.png)
 
-可以看到其中绿色、紫色、橙色的部分，他们的含义分别如下：
+这个序列中绿色的方框是外显子区域，拼接起来就是cDNA序列。方框中浅绿色的部分是不编码氨基酸，常存在于首个外显子的前半部分及末尾外显子的后半部分，方框中绿色部分拼接起来就是开放阅读框即ORF。
+
+可以看到其中绿色、紫色、橙色的部分，绿色是基因片段，紫色是mRNA序列，橙色是CDS编码序列。
 
 | Accession            | Molecule | Note                                                         |
 | -------------------- | -------- | ------------------------------------------------------------ |
 | AC_123456            | Genomic  | 一些可供选择的注释的基因组序列，用来标记病毒和原核生物       |
 | AP_123456            | Protein  | AC标记序列对应的蛋白产物                                     |
-| AY_123456            |          | DNA                                                          |
+| AY_123456            |          | DNA？？？                                                    |
 | NC_123456            | Genomic  | 完整的基因组分子序列，标记的类别包括基因组、染色体、细胞器、质粒 |
 | NG_123456            | Genomic  | 不完整的基因组区域，提供NCBI基因注释途径。比如不转录的假基因或者很难自行注释的基因组簇 |
 | NM123456;NM123456789 | mRNA     | 转录产物序列；成熟mRNA转录本序列                             |
@@ -135,13 +137,25 @@ MYC后面的箭头指向右边代表他是正向转录的，旁边的MIR1204和�
 | ZP_12345678          | Protein  | 蛋白产物，主要是电脑自动注释                                 |
 | NS_123456            | Genomic  | 未知生物分子基因组序列                                       |
 
-其中，这个部分。可以左右拖动查看。
+其中，Biological regions这个部分。可以左右拖动查看。
 
 ![image-20211009193133107](index.assets/image-20211009193133107.png)
 
 代表了基因组元件（片段、DNasel信号富集位点、蛋白结合位点等），对应上方的DNA区域可能会受到转录因子或是表观遗传修饰等的调节
 
-点击Tracks，选择NCBI Recommended Track Sets中的Epigenomics，可以看到如下
+下面。
+
+![image-20211012094017798](index.assets/image-20211012094017798.png)
+
+红色的条条，Variation Type:	SNV，单核苷酸变异。
+
+往下。
+
+![image-20211012095050679](index.assets/image-20211012095050679.png)
+
+SNP，单核苷酸多态性。
+
+点击右上方的Tracks，选择NCBI Recommended Track Sets中的Epigenomics，可以看到如下
 
 ![image-20211009210543720](index.assets/image-20211009210543720.png)
 
@@ -169,7 +183,7 @@ MYC后面的箭头指向右边代表他是正向转录的，旁边的MIR1204和�
 
 ![variation](index.assets/image-20211009194631426.png)
 
-突变，可以看到有哪些突变。
+Variation突变，可以看到有哪些突变。
 
 再往下。
 

@@ -1,12 +1,12 @@
 ---
-title: 笔记-Java概述
+title: Java基础
 author: Lin Gui
-date: '2021-10-07'
-slug: 笔记-java概述
+date: '2021-10-10'
+slug: java基础
 categories:
   - Java
 tags:
-  - 笔记
+  - 技能点
 ---
 
 # Java概述
@@ -23,8 +23,6 @@ tags:
 
     编译型语言【c、c++】，编译后代码能直接执行。
 
-------
-
 ## java运行机制及运行过程
 
 ### java核心机制-Java虚拟机JVM
@@ -39,25 +37,42 @@ tags:
 
 运行指令：java，运行.class文件。
 
-------
+### 什么是编译
+
+-   通过编译器将java源文件编译成JVM可以识别的字节码文件。
+-   在该源文件目录下，通过javac编译工具对.java文件进行编译。
+-   如果程序没有错误，没有错误提示信息，则会出现一个.class文件，称为字节码文件，是可以执行的java程序。
+
+### 什么是运行
+
+有了可执行的java程序，通过运行工具java.exe对字节码文件进行执行，本质是将.class文件装载到jvm机执行。
 
 ## JDK、JRE
 
 ### JDK
 
-Java Development Kit，Java开发工具包。
+-   Java Development Kit，Java开发工具包。
 
-JDK=JRE+Java开发工具（java，javac，javadoc，javap等）。
+-   JDK=JRE+Java开发工具（java，javac，javadoc，javap等）。
 
-开发人员用JDK，安装了JDK就不用装JRE了。
+-   开发人员用JDK，安装了JDK就不用装JRE了。
+
 
 ### JRE
 
-Java Runtime Environment，Java运行环境。
+-   Java Runtime Environment，Java运行环境。
 
-JRE=JVM+Java核心类库。
+-   JRE=JVM+Java核心类库。
+-   如果只想运行开发好的.class文件，只用安装JRE。
 
-如果只想运行开发好的.class文件，只用安装JRE。
+## 开发细节注意事项
+
+1.  java严格区分大小写。
+2.  每个语句以；结尾。
+3.  大括号成对出现。
+4.  一个源文件中只能有一个public类，其余类不限，如果有多个类，每个类编译后都对应一个.class文件。
+5.  如果包含public类，则文件名必须按该类名命名。
+6.  main方法可以放在非public类中，然后指定运行非public类，这样入口方法就是非public类的main方法。可以通过单独运行那个类
 
 ------
 
@@ -72,8 +87,6 @@ JRE=JVM+Java核心类库。
 1.  将Java代码编写到名为Hello.java的文件中。
 2.  通过javac命令对java文件进行编译，生成.class文件。
 3.  通过java命令对.class文件进行运行。
-
-注意：文件中有中文时，
 
 ```java
 // 1、public class Hello，表示Hello是一个类，是一个公有类
@@ -90,3 +103,10 @@ public class Hello {
 }
 ```
 
+------
+
+# 变量
+
+## 为什么要变量
+
+变量是程序的基本组成单位，变量的三个基本要素（类型+名称+值）

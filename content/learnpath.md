@@ -11,20 +11,21 @@ title: 学习路径
 -   [x] 卷积神经网络
 -   [x] 循环神经网络
 -   [x] 图神经网络
--   [ ] 生物信息数据库
+-   [x] 生物信息数据库NCBI
     -   [x] NCBI Gene
     -   [x] NCBI Nucleotide
     -   [x] Genbank
+    -   [x] Blast
 
 ### 就业方向
 
-[资料来源](https://github.com/Snailclimb/JavaGuide)
+[资料来源1](https://github.com/Snailclimb/JavaGuide)、[资料来源2](https://www.zhihu.com/zvideo/1412515924976644096)
 
 [路径资料](https://snailclimb.gitee.io/javaguide/#/?id=java)
 
-### 1、java基础,[学习视频](https://www.bilibili.com/video/BV1fh411y7R8)
+### 1、java基础（60天），[学习视频](https://www.bilibili.com/video/BV1fh411y7R8)
 
--   [ ] [概述](/java/笔记-java概述/)
+-   [x] 概述
 -   [ ] 变量
 -   [ ] 控制结构
 -   [ ] OOP
@@ -36,6 +37,14 @@ title: 学习路径
 -   [ ] IO
 -   [ ] 反射
 -   [ ] 网络通信
+
+### Java8（3天），[视频](https://www.bilibili.com/video/BV1Kb411W75N?p=660)
+
+### 2、巩固基础30天
+
+-   [ ] 阅读《Java核心技术卷1》
+-   [ ] [牛客刷题](https://www.nowcoder.com/intelligentTest)
+-   [ ] leetbook
 
 ### 2、java高级
 
@@ -106,7 +115,7 @@ title: 学习路径
     -   [ ] JVM性能监控和故障定位
     -   [ ] JVM调优
 
-### 3、JavaWeb
+### 3、JavaWeb（60天）
 
 -   [ ] 前端基础
     -   [ ] HTML

@@ -183,3 +183,15 @@ tensorflow函数[placeholder作用](https://zhuanlan.zhihu.com/p/81040163)
 
 视频-[核苷酸数据库，Genbank,FASTA](https://www.bilibili.com/video/BV1gR4y1p7Fk?from=search&seid=15401893481535071285&spm_id_from=333.337.0.0)
 
+## 10月12日
+
+知识点-[mRNA序列、cDNA序列、ORF序列、CDS序列](http://blog.sciencenet.cn/blog-247480-482935.html)
+
+知识点-[SNP和SNV](https://www.zhihu.com/question/36802286)
+
+资源-[英语真题在线](https://zhenti.burningvocabulary.com/cet6)
+
+视频-[BLAST](https://www.bilibili.com/video/BV1Rv411V7aD?from=search&seid=9276051816181671648&spm_id_from=333.337.0.0)
+
+知识点-[BlastN/MegaBlast/Discontiguous MegaBlast 的区别](https://liucheng.name/1009/)
+

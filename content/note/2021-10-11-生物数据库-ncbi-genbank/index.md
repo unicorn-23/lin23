@@ -9,7 +9,7 @@ tags:
   - 生物数据库
 ---
 
-Genbank
+Genbank，通过Nucleotide搜索，点击序列的genbank进入。
 
 ------
 
@@ -126,7 +126,7 @@ Genbank
         -   /db_xref="GeneID:4128"
         -   /db_xref="HGNC:HGNC:6833"
         -   /db_xref="MIM:309850"
-        -   /translation
+        -   /translation（可开放阅读框）？
     -   ORIGIN（序列）
         -   1 taaacgctta atgttagagg gtaatgatta agtagactag agtaggcaat tgaacataga
         -   61 gagtgaatat atatatatat atatatatat ggcatgaata tataatgtag ttttttaaaa

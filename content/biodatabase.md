@@ -6,7 +6,13 @@ title: 生物信息数据库
 
 ## 常用生物数据库
 
-[NCBI简介](/note/2021/10/10/生物数据库-ncbi/)、[NCBI-Gene](/note/2021/10/09/生物数据库-ncbi-gene/)、[NCBI-Nucleotide](/note/2021/10/09/生物数据库-ncbi-gene-nucleotide/)
+### 笔记
+
+[NCBI简介](/note/2021/10/10/生物数据库-ncbi/)、[NCBI-Gene](/note/2021/10/09/生物数据库-ncbi-gene/)、[NCBI-Nucleotide](/note/2021/10/09/生物数据库-ncbi-gene-nucleotide/)、[NCBI-GenBank](/note/2021/10/11/生物数据库-ncbi-gene-genbank/)
+
+### 工具
+
+[BLAST](/note/2021/10/12/生物数据库-ncbi-gene-blast/)
 
 ### 基因组数据库
 

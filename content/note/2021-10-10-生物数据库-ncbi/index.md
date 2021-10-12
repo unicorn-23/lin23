@@ -11,7 +11,7 @@ tags:
 
 ## NCBI
 
-[网站](www.ncbi.nlm.nih.gov)
+[网站](https://www.ncbi.nlm.nih.gov)
 
 美国国立生物技术信息中心，National Center for Biotechnology Information
 
@@ -37,7 +37,7 @@ tags:
 
 | Genes                                                     | 基因序列和注释，用作研究正交学结构、表达和进化的参考         |
 | --------------------------------------------------------- | ------------------------------------------------------------ |
-| [Gene](https://www.ncbi.nlm.nih.gov/gene/)                | 提供基因序列注释和检索服务                                   |
+| [Gene](https://www.ncbi.nlm.nih.gov/gene/)                | 整合各类别信息，包括命名法、参考序列、定位、通路、变异、表型，提供基因序列注释和检索服务 |
 | [GEO DataSets](https://www.ncbi.nlm.nih.gov/gds/)         | 存储从Gene Expression Omnibus（GEO）数据库组装的基因表达和分子丰度数据集。数据集每个记录包含其他资源，包括集群工具和差异表达式查询。 |
 | [GEO Profiles](https://www.ncbi.nlm.nih.gov/geoprofiles/) | 存储从Gene Expression Omnibus（GEO）数据库组装的单个基因表达和分子丰度配置文件。 基于基因注释或预先计算的轮廓特征搜索感兴趣的特定配置。 |
 | [HomoloGene](https://www.ncbi.nlm.nih.gov/homologene/)    | 在20个完全测序的真核生物基因组中自动检索同源基因的系统。     |

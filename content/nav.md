@@ -14,3 +14,7 @@ title: 导航
 ### 博客相关
 [blogdown文档](https://bookdown.org/yihui/blogdown/) | 
 
+### 资源
+
+[四六级真题](https://zhenti.burningvocabulary.com)｜[Java学习](https://snailclimb.gitee.io/javaguide/#/?id=java)
+
