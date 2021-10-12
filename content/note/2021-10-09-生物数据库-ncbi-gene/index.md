@@ -20,7 +20,7 @@ tags:
 可以在搜索框中输入，来限定基因名symbol和物种porganism
 
 ```
-xxx[symbol] AND yyy[organism]
+xxx[symbol] AND yyy[organism] NOT zzz
 xxx[sym] AND yyy[orgn]
 ```
 
