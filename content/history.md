@@ -195,3 +195,6 @@ AlphaFold-目前最强的蛋白质二级结构预测
 
 知识点-[BlastN/MegaBlast/Discontiguous MegaBlast 的区别](https://liucheng.name/1009/)
 
+## 10月13日
+
+视频-[损失函数](https://www.bilibili.com/video/BV17i4y1A7kb?from=search&seid=18186310877245692966&spm_id_from=333.337.0.0)

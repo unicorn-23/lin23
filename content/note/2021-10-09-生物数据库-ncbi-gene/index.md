@@ -28,7 +28,7 @@ xxx[sym] AND yyy[orgn]
 
 **1、该基因处在染色体的哪个位置？**
 
-**2、该基因有多少个外显子？多少个isoforms？**
+**2、该基因有多少个外显子？**
 
 **3、该基因的参考基因组、转录本和蛋白序列是什么？**
 
@@ -39,8 +39,6 @@ xxx[sym] AND yyy[orgn]
 **6、该基因的功能是什么？**
 
 **7、研究该基因的文献有哪些？**
-
-**8、该基因在其他物种的同源基因是什么？**
 
 ### example
 
@@ -91,25 +89,29 @@ xxx[sym] AND yyy[orgn]
 
 可以准确的搜索到目标基因。
 
-可以得到的信息：
+Summary总结，可以得到的信息：
 
 -   Gene ID：基因的id号。
--   Gene type：基因类型。
+-   Primary source：主要来源
+-   Gene type：基因类型。编码蛋白。
 -   RefSeq status：REVIEWED，审核过的，其他的可能是预测的基因。
+-   Organism：物种，智人。
 -   Lineage：记录某个物种的分类地位，即它属于哪个门，哪个纲等等。
--   Also known as：曾用名。
+-   Also known as：曾用名。要找以前关于这个基因的文献，可以尝试用曾用名搜索文献。
 -    Summay：对基因功能的总结归纳。
+-    该基因是一个原癌基因，编码一种核磷蛋白，在细胞周期进展、凋亡和细胞转化中发挥作用。编码蛋白与相关转录因子MAX形成异二聚体。该复合物与E盒DNA共有序列结合并调节特定靶基因的转录。在许多人类癌症中经常观察到该基因的扩增。涉及该基因的易位与人类伯基特淋巴瘤和多发性骨髓瘤相关。有证据表明，翻译起始于上游、帧内非AUG（CUG）和下游AUG起始位点，导致产生两种具有不同N-末端的异构体。[由RefSeq提供，2017年8月]
+-    Expression：表达，在胆囊、食管和25个其他组织中普遍表达。
 -   Orthologs：直系同源物种。
 
 ![genomic-context](index.assets/image-20211009150429905.png)
 
-Genomic context：查看基因在哪个染色体上。
+Genomic context：基因背景，查看基因在哪个染色体上在8号染色体，q24.21上。
 
 ![image-20211009184051138](index.assets/image-20211009184051138.png)
 
-MYC后面的箭头指向右边代表他是正向转录的，旁边的MIR1204和下面的表示他的临近基因。
+MYC后面的箭头指向右边代表他是**正向转录**的，旁边的MIR1204和下面的表示他的临近基因。
 
-点击右上角的Genome Data Viewer，可以看到。
+往下。
 
 ![data viewer](index.assets/image-20211009191749099.png)
 
@@ -155,7 +157,18 @@ MYC后面的箭头指向右边代表他是正向转录的，旁边的MIR1204和�
 
 SNP，单核苷酸多态性。
 
-点击右上方的Tracks，选择NCBI Recommended Track Sets中的Epigenomics，可以看到如下
+点击右上方的Tracks，在推荐的Track sets里可以看到
+
+-   Assembly Support
+-   Clinical
+-   Comparative Genomics
+-   Epigenomics
+-   Express
+-   Gene Support
+-   Genes
+-   Genetics and Variation
+
+选择NCBI Recommended Track Sets中的Epigenomics，表观基因组学，可以看到如下
 
 ![image-20211009210543720](index.assets/image-20211009210543720.png)
 
@@ -195,13 +208,13 @@ Variation突变，可以看到有哪些突变。
 
 ![pathways](index.assets/image-20211009194941536.png)
 
-基因的通路。
+基因的通路。pathway主要描述了一种机理或者现象，可以有信号通路、代谢通路等等，它的结果由点(nodes)和线(edges)组成，目的是描述某些现象、相互作用和依赖性。Pathway是一种描述细胞、组织或个体内的基因、蛋白或代谢产物互作关系的模型，并不是简单地基因列表。
 
 往下。
 
 ![iteration](index.assets/image-20211009195008008.png)
 
-ProductsAY表示MYC的DNA与E2F1基因有相互作用，NP表示MYC蛋白与其他蛋白的相互作用。
+Products，AY表示MYC的DNA与E2F1基因有相互作用，NP表示MYC蛋白与其他蛋白的相互作用。
 
 往下。
 
