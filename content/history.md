@@ -198,3 +198,8 @@ AlphaFold-目前最强的蛋白质二级结构预测
 ## 10月13日
 
 视频-[损失函数](https://www.bilibili.com/video/BV17i4y1A7kb?from=search&seid=18186310877245692966&spm_id_from=333.337.0.0)
+
+## 10月16日
+
+视频-[渐进分析](https://www.bilibili.com/video/BV1c741137Wf?from=search&seid=1515158810666563306&spm_id_from=333.337.0.0)
+
