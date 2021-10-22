@@ -203,3 +203,14 @@ AlphaFold-目前最强的蛋白质二级结构预测
 
 视频-[渐进分析](https://www.bilibili.com/video/BV1c741137Wf?from=search&seid=1515158810666563306&spm_id_from=333.337.0.0)
 
+视频-[软件体系结构](https://www.bilibili.com/video/BV1g7411j7GJ?p=4)，要看看看
+
+## 10月17日
+
+视频-[李开复：人工智能将拯救人类](https://www.bilibili.com/video/BV1dW41197f9?from=search&seid=7070285323601416346&spm_id_from=333.337.0.0)
+
+## 10月22日
+
+合集-[艾跃进](https://space.bilibili.com/311644358)
+
+视频-[【中华礼仪与做人做事】南开大学艾跃进教授，全7集](https://www.bilibili.com/video/BV1Y741147D6/?spm_id_from=333.788.recommend_more_video.-1)

@@ -10,12 +10,13 @@ title: 学习路径
 -   [x] 神经网络
 -   [x] 卷积神经网络
 -   [x] 循环神经网络
--   [x] 图神经网络
+-   [ ] 图神经网络
 -   [x] 生物信息数据库NCBI
     -   [x] NCBI Gene
     -   [x] NCBI Nucleotide
     -   [x] Genbank
     -   [x] Blast
+-   [ ] 生物信息数据库UCSC
 
 ### 就业方向
 
