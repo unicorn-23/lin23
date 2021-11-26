@@ -17,7 +17,7 @@ tags:
 
 1、**Supervised Neural Networks for the Classification of Structures.** IEEE TNN 1997
 
--   [x] [用于结构分类的监督神经网络](https://sci-hub.se/https://ieeexplore.ieee.org/abstract/document/572108)
+-   [ ] [用于结构分类的监督神经网络](https://sci-hub.se/https://ieeexplore.ieee.org/abstract/document/572108)
 
 2、**Graphical-Based Learning Environments for Pattern Recognition.** SSPR/SPR 2004
 

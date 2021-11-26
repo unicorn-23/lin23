@@ -147,11 +147,11 @@ AlphaFold-目前最强的蛋白质二级结构预测
 
 指南-[java学习路径](https://snailclimb.gitee.io/javaguide/#/?id=java)
 
-视频-[零基础java](https://www.bilibili.com/video/BV1fh411y7R8?spm_id_from=333.999.0.0)
+视频-[零基础java](https://www.bilibili.com/video/BV1fh411y7R8?spm_id_from=333.999.0.0)～～～～～
 
 ## 10月9日
 
-视频-[生物信息数据库](https://www.bilibili.com/video/BV19f4y1s78y?p=2)
+视频-[生物信息数据库](https://www.bilibili.com/video/BV19f4y1s78y?p=2)～～～～～
 
 知识点-[为什么智人Homo sapiens sapiens中有两个sapiens](https://www.zhihu.com/question/65673615)
 
@@ -214,3 +214,91 @@ AlphaFold-目前最强的蛋白质二级结构预测
 合集-[艾跃进](https://space.bilibili.com/311644358)
 
 视频-[【中华礼仪与做人做事】南开大学艾跃进教授，全7集](https://www.bilibili.com/video/BV1Y741147D6/?spm_id_from=333.788.recommend_more_video.-1)
+
+## 10月23日
+
+视频-[分子生物学](https://www.bilibili.com/video/BV1h741157zC?p=70)
+
+视频-[表观遗传学-甲基化](https://www.bilibili.com/video/BV1e54y1D7Mb?spm_id_from=333.999.0.0)
+
+视频-[表观遗传学-组蛋白修饰](https://www.bilibili.com/video/BV1uA411q7dn?from=search&seid=2310901266324005252&spm_id_from=333.337.0.0)
+
+视频-[生物芯片技术](https://www.bilibili.com/video/BV12E411x76u?spm_id_from=333.999.0.0)
+
+## 10月27日
+
+知识点-[CpG Islands记录文件下载的4种方式](http://www.bio-info-trainee.com/2141.html)
+
+视频-[UCSC学习](https://www.bilibili.com/video/BV19f4y1s78y?p=3)
+
+## 10月28日
+
+视频-[染色质免疫共沉淀（ChIP）讲座](https://www.bilibili.com/video/BV1CA411M7U8?from=search&seid=3776966513259795410&spm_id_from=333.337.0.0)
+
+## 10月29日
+
+视频-[miRBase数据库简介](https://www.bilibili.com/video/BV16x411e7NG?p=2)
+
+视频-[3D动画小课程：什么是 miRNA/microRNA](https://www.bilibili.com/video/BV1Hy4y127Gy?from=search&seid=12077640658361658132&spm_id_from=333.337.0.0)
+
+视频-[MOOC-RNA对基因表达水平的调控](https://www.icourse163.org/learn/NCU-1206608804?tid=1450362483#/learn/content?type=detail&id=1214825338)
+
+## 11月1日
+
+知识点-[模式生物](https://zhuanlan.zhihu.com/p/34340574)
+
+## 11月3日
+
+解决问题-[vscode的java找不到主类](https://github.com/redhat-developer/vscode-java/issues/1390)，右键文件夹添加到java source path
+
+## 11月4日
+
+工具-[深度学习云服务器](https://mistgpu.com/i/306933/)
+
+## 11月6日
+
+视频-[线性规划问题与单纯型法](https://www.bilibili.com/video/BV1kf4y127ao?spm_id_from=333.999.0.0)
+
+## 11月7日
+
+视频-[SMO算法](https://www.bilibili.com/video/BV1bK4y187hG?from=search&seid=11722244362551290558&spm_id_from=333.337.0.0)
+
+视频-[李航统计学习之SVM支持向量机+SMO算法数学推导](https://www.bilibili.com/video/BV1S741117Pw?from=search&seid=11722244362551290558&spm_id_from=333.337.0.0)
+
+视频-[python实现svm](https://www.bilibili.com/video/BV19E411c7B5?spm_id_from=333.999.0.0)
+
+## 11月8日
+
+视频-[一起学ML之支持向量机 -- 用拉格朗日乘数和对偶解决SVM优化问题](https://www.bilibili.com/video/BV1TA411h7o1?spm_id_from=333.999.0.0)
+
+视频-[核技巧](https://www.bilibili.com/video/BV16C4y1s7e9?spm_id_from=333.999.0.0)  
+
+视频-[SMO](https://www.bilibili.com/video/BV1t5411s7aX?spm_id_from=333.999.0.0)
+
+## 11月10日
+
+工具-[mac上R语言版本转换软件- Rswitch](https://rud.is/rswitch/)
+
+## 11月13日
+
+视频-[master方法求时间复杂度](https://www.bilibili.com/video/BV1kU4y1w7XX?from=search&seid=16271974618835201453&spm_id_from=333.337.0.0)
+
+## 11月14日
+
+视频-[最长公共子序列](https://www.bilibili.com/video/BV1Gp411Z7aC?from=search&seid=6591350124242680931&spm_id_from=333.337.0.0)
+
+视频-[最大子段和](https://www.bilibili.com/video/BV1HC4y1a7CL?from=search&seid=1139287109966368601&spm_id_from=333.337.0.0)
+
+视频-[01背包](https://www.bilibili.com/video/BV1U5411s7d7?from=search&seid=16735433181104705840&spm_id_from=333.337.0.0)
+
+## 11月15日
+
+视频-[Floyd-Warshall算法](https://www.bilibili.com/video/BV1eJ411E7Ks?p=4)
+
+## 11月19日
+
+视频-[生物信息 北京大学](https://www.bilibili.com/video/BV13t411G7oh?p=1)###########好
+
+## 11月20日
+
+视频-[有限状态自动机](https://www.bilibili.com/video/BV1Yi4y1t7J3?from=search&seid=604765667267643942&spm_id_from=333.337.0.0)

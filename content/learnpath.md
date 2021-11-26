@@ -17,6 +17,10 @@ title: 学习路径
     -   [x] Genbank
     -   [x] Blast
 -   [ ] 生物信息数据库UCSC
+    -   [x] genome browser
+-   [ ] 分子生物学
+-   [ ] 基因芯片
+-   [ ] 序列比对
 
 ### 就业方向
 
@@ -27,8 +31,8 @@ title: 学习路径
 ### 1、java基础（60天），[学习视频](https://www.bilibili.com/video/BV1fh411y7R8)
 
 -   [x] 概述
--   [ ] 变量
--   [ ] 控制结构
+-   [x] 变量
+-   [x] 控制结构
 -   [ ] OOP
 -   [ ] 数组
 -   [ ] API
