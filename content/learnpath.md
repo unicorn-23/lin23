@@ -3,9 +3,9 @@ title: 学习路径
 
 ---
 
-暂定目标为科研+就业
+方向为科研+就业
 
-### 科研方向
+# 科研方向
 
 -   [x] 神经网络
 -   [x] 卷积神经网络
@@ -16,17 +16,24 @@ title: 学习路径
     -   [x] NCBI Nucleotide
     -   [x] Genbank
     -   [x] Blast
--   [ ] 生物信息数据库UCSC
+-   [x] 生物信息数据库UCSC
     -   [x] genome browser
 -   [ ] 分子生物学
 -   [ ] 基因芯片
--   [ ] 序列比对
+-   [x] 序列比对
+-   [x] 隐马尔可夫链
 
-### 就业方向
+# 就业方向
 
 [资料来源1](https://github.com/Snailclimb/JavaGuide)、[资料来源2](https://www.zhihu.com/zvideo/1412515924976644096)
 
 [路径资料](https://snailclimb.gitee.io/javaguide/#/?id=java)
+
+P5
+
+![P5](learnpath.assets/P5.png)
+
+
 
 ### 1、java基础（60天），[学习视频](https://www.bilibili.com/video/BV1fh411y7R8)
 
@@ -34,7 +41,7 @@ title: 学习路径
 -   [x] 变量
 -   [x] 控制结构
 -   [ ] OOP
--   [ ] 数组
+-   [x] 数组
 -   [ ] API
 -   [ ] 异常和处理
 -   [ ] 集合
@@ -228,4 +235,33 @@ title: 学习路径
 -   [ ] 数值分析
 -   [ ] 计算机组成原理
 -   [ ] 汇编语言
+
+# 中医path
+
+### 一、
+
+-   [ ] 中药学
+-   [ ] 方剂学
+-   [ ] 中医理论基础
+-   [ ] 中医诊断学
+
+### 二、世界观
+
+圆运动的古中医学
+
+伤寒论（重点）
+
+### 三、四个人
+
+**理论**
+
+郑钦安
+
+黄元御
+
+**实践**
+
+李可（重症）
+
+张锡纯
 

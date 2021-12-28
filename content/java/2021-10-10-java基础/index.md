@@ -1443,4 +1443,300 @@ p2.age究竟是多少？
 
 ### 成员方法传参机制
 
-基本数据类型
+基本数据类型的传参机制，MethodParameter01.java
+
+引用数据类型的传参机制，MethodParameter02.java，引用类型传递的是地址，可以通过形参影响实参
+
+### 练习，MethodExercise02.java
+
+编写一个方法copyPerson，可以复制一个Person对象，返回复制的对象。克隆对象，注意要求得到新对象和原来的对象是两个独立的对象，只是属性相同。
+
+```java
+public class MethodExercise02 {
+    public static void main(String[] args) {
+        // 编写类MyTools类，编写一个方法可以打印二维数组的数据
+        Human p=new Human();
+        p.name="aa";
+        p.age=100;
+
+        MyTools tools= new MyTools();
+        Human p2 = tools.copyHuman(p);
+        System.out.println(p2.name+" "+p2.age);
+    }
+}
+class Human{
+    String name;
+    int age;
+}
+class MyTools{
+    // 编写一个方法copyPerson，可以复制一个Person对象，返回复制的对象。
+    // 克隆对象，注意要求得到新对象和原来的对象是两个独立的对象，只是属性相同。
+    //思路
+    // 返回类型Person
+    // 方法名copyPerson
+    // 方法形参（Person p）
+    // 方法体 创建一个新对象，并复制属性
+    public Human copyHuman(Human p){
+        Human newp=new Human();
+        newp.name=p.name;
+        newp.age=p.age;
+
+        return newp;
+    } 
+}
+```
+
+### 方法递归调用
+
+递归就是方法调用自己，每次调用时传入不同的变量，有助于编程者解决复杂问题，同时可以让代码变得简洁
+
+### 递归解决的问题
+
+-   数学问题：汉诺塔、8皇后、阶乘、迷宫
+-   算法：快排、归并、二分、分治
+-   用栈解决的问题：递归代码比较简洁
+
+### 举例
+
+1、打印问题
+
+```java
+public void test(int n){
+    if(n>2){
+        test(n-1);
+    }
+    System.out.println("n="+n);
+}
+```
+
+2、阶乘问题
+
+```java
+public int factorial(int n){
+    if(n==1){
+        return 1;
+    }else{
+        return factorial(n-1)*n;
+    }
+}
+```
+
+### 重要规则
+
+1.  执行一个方法时，就创建一个新的受保护的独立空间
+2.  方法的局部变量是独立时，不会相互影响，比如n变量
+3.  如果方法中使用的是引用类型变量，就会共享改引用类型的数据
+4.  递归必须向退出递归的条件逼近，否则就是无限递归
+5.  当一个方法执行完毕，或遇到return，就会返回，遵守谁调用，就将结果返回给谁，同时当方法执行完毕或返回时，该方法也就执行完毕。      
+
+### 练习，RecursionExercise01.java
+
+使用递归的方式求出斐波那契数列1，1，2，3，5，8，13给你一个整数n，求出他的值时多少
+
+### RecursionExercise02.java
+
+猴子吃桃子问题：有一堆桃子，猴子第一天吃了其中的一半，并再多吃了一个！以后每天猴子都吃其中的一半，然后再多吃一个。当到第10天时，想再吃时（即还没吃），发现只有1个桃子了。问题：最初共多少个桃子？
+
+### RecursionExercise03.java
+
+迷宫问题
+
+------
+
+## 方法重载
+
+java中允许同一个类中多个同名方法的存在，但**要求形参列表不一致**
+
+好处
+
+减轻起名麻烦，减轻记名麻烦
+
+### 快速入门,Overload01.java
+
+```java
+//类：MyCalculator 方法：calculate
+class MyCalculator {
+    //calculate重载
+    public int calculate(int n1, int n2) {
+        return n1 + n2;
+    }
+
+    public double calculate(int n1, double n2) {
+        return n1 + n2;
+    }
+
+    public double calculate(double n1, double n2) {
+        return n1 + n2;
+    }
+
+    public int calculate(int n1, int n2, int n3) {
+        return n1 + n2 + n3;
+    }
+}
+```
+
+### 注意事项、使用细节
+
+1.  方法名必须相同
+2.  参数列表必须不同，形参类型或个数或顺序，至少有一个不一样
+
+### 练习，OverLoadExervise.java
+
+## 可变参数
+
+**基本概念**
+
+java允许将同一个类中多个同名同功能但参数个数不同的方法，封装成一个方法。
+
+**基本语法**
+
+访问修饰符 返回类型 方法名(数据类型...形参名){}
+
+### 快速入门,VarParameter01.java
+
+类HspMethod，方法sum
+
+```java
+class HspMethod{
+    // //2个数和
+    // public int sum(int n1, int n2){
+    //     return n1+n2;
+    // }
+    // //3个数和
+    // public int sum(int n1, int n2,int n3){
+    //     return n1+n2+n3;
+    // }
+    // //3个数和
+    // public int sum(int n1, int n2,int n3,int n4){
+    //     return n1+n2+n3+n4;
+    // }
+    //功能相同，参数个数不同，使用可变参数优化， 
+    //1.int... 接受可变参数，类型是int，即可以接收多个int(0到多)
+    //2.使用可变参数时，可以当作数组来使用，即nums可以当作数组
+    public int sum(int... nums){
+        int res = 0;
+        for(int i=0;i<nums.length;i++){
+            res+=nums[i];
+        }
+        return res;
+    }
+}
+```
+
+### 可变参数，使用细节，VarParameterDetail.java
+
+1.  可变参数的实参可以为0个或任意多个
+2.  可变参数的实参可以为数组
+3.  可变参数的本质是数组
+4.  可变参数可以和普通类型的参数一起放在形参列表，但必须保证可变参数在最后
+5.  一个形参列表中只能出现一个可变参数
+
+### 可变参数练习，VarParameterExercise.java
+
+有三个方法，分别实现返回姓名和两门课成绩，返回姓名和三门课成绩，返回姓名和五门课成绩（总分）。封装成一个可变参数的方法
+
+## 作用域
+
+1.  在java编程中，主要的变量就是成员变量和局部变量
+2.  局部变量一般指在成员方法中定义的变量
+3.  java中作用域的分类
+    1.  全局变量：作用域为整个类体
+    2.  局部变量：除了属性之外的其他变量，作用域为定义他的代码块中
+4.  全局变量可以不赋值直接使用，有默认值，局部变量必须赋值后才能使用，没有默认值
+
+### 细节
+
+1.  属性和局部变量可以重名，访问遵循就近原则
+2.  在同一个作用域中，两个局部变量不能重名
+3.  属性生命周期较长，伴随对象的创建而创建，对象的死亡而死亡。局部变量生命周期较短，伴随着他的代码块的执行而创建，伴随着代码块的结束而死亡，即在一次方法调用过程中。
+4.  作用域范围
+    1.  全局变量：可以被本类使用，或被其他类使用，通过对象调用
+    2.  局部变量：只能被本类方法中使用
+5.  修饰符不同
+
+## 构造器，构造方法
+
+类的一种特殊的方法，主要作用是完成对新对象的初始化
+
+```java
+//基本语法
+[修饰符] 方法名(形参列表){
+    方法体;
+}
+```
+
+说明：
+
+1.  构造器的修饰符可以默认，也可以是public protected private
+2.  构造器没有返回值
+3.  方法名和类名一样
+4.  参数列表和成员方法一样的规则
+5.  创建对象时，系统自动调用该类的构造器完成对对象的初始化
+
+### 快速入门，Constructor01.java
+
+// 创建人类对象时，直接指定这个对象的年龄和姓名
+
+### 构造器的使用细节
+
+1.  一个类可以定义多个不同的构造器，即构造器重载
+2.  构造器名和类名要相同
+3.  构造器没有返回值
+4.  构造器是完成对象的初始化，并不是创建对象
+5.  在创建对象时，系统自动调用该类的构造方法
+
+### 练习，ConstructorExercise.java
+
+在People类中加两个构造器
+
+第一个无参构造器。设置所有人的age属性初始值为18
+
+第二个带pName和pAge两个参数的构造器：使得每次创建People对象同时初始化对象的age和name，使用不同的构造器创建对象
+
+## 对象创建的流程分析
+
+```java
+class Person{
+    int age=90;
+    String name;
+    Person(String n,int a){
+        name=n;
+        age=a;
+    }
+}
+Person p=new Person("bo",20);
+```
+
+流程分析
+
+### new在内存中发生了什么？
+
+
+
+1.  加载Person类的信息，只会加载一次
+2.  在堆中分配空间
+3.  完成对象初始化
+    1.  默认初始化 age=0，name=null
+    2.  显式初始化 age=90，name=null
+    3.  构造器初始化，age=20，name=“bo”
+4.  将对象在堆中的地址赋值给p
+
+## this关键字
+
+Java虚拟机会给每个对象分配this，代表当前对象
+
+哪个对象调用，this就代表哪个对象
+
+### this注意事项，thisDetail.java
+
+1.  this关键字可以用来访问本类的属性、方法和构造器
+2.  this用于区分当前类的属性和局部变量
+3.  访问成员方法的语法：this.方法名(参数列表)
+4.  访问构造器语法：this(参数列表)，**只能在构造器中调用另一个构造器**
+5.  this不能在类定义的外部使用，只能在类定义的方法中使用
+
+### this练习，TestPerson.java
+
+定义Person类，有name、age属性，并提供compareTo方法，用于判断是否和另一个人想等，提供测试类TestPerson用于测试，名字和年龄完全一样，返回true，否则false
+
+## 

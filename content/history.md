@@ -302,3 +302,31 @@ AlphaFold-目前最强的蛋白质二级结构预测
 ## 11月20日
 
 视频-[有限状态自动机](https://www.bilibili.com/video/BV1Yi4y1t7J3?from=search&seid=604765667267643942&spm_id_from=333.337.0.0)
+
+## 11月28日
+
+视频-[内卷把同事逼成了“扫地僧”，把 Github 上所有面试题都整理了一遍~ 足足300集](https://www.bilibili.com/video/BV1R3411t7tt?spm_id_from=333.851.b_7265636f6d6d656e64.3)
+
+## 12月9日
+
+代码-[YOLO](https://github.com/bubbliiiing/efficientnet-yolo3-tf2)这个up可以看##############################
+
+## 12月10日
+
+视频-[左程云算法](https://www.bilibili.com/video/BV1Ef4y1T7Qi?p=2)##############################好
+
+知识点-[macro、micro查全率查准率F1的区别](https://blog.csdn.net/qq_43190189/article/details/105778058)
+
+知识点-[macro-F1和micro-F1得分分别适用于什么场景？](https://www.zhihu.com/question/332571344)
+
+## 12月13日
+
+视频-[中医基础理论##############################](https://www.bilibili.com/video/BV1Qv41157QD?from=search&seid=11419486138664741946&spm_id_from=333.337.0.0)
+
+## 12月14日
+
+视频-[道德经##############################](https://www.bilibili.com/video/BV1Kv411P7gD?from=search&seid=10018478994902397076&spm_id_from=333.337.0.0)
+
+## 12月18日
+
+视频-[softmax是为了解决归一问题凑出来的吗？和最大熵是什么关系？](https://www.bilibili.com/video/BV1cP4y1t7cP?from=search&seid=11510487246654887978&spm_id_from=333.337.0.0)
