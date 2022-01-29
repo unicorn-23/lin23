@@ -330,3 +330,10 @@ AlphaFold-目前最强的蛋白质二级结构预测
 ## 12月18日
 
 视频-[softmax是为了解决归一问题凑出来的吗？和最大熵是什么关系？](https://www.bilibili.com/video/BV1cP4y1t7cP?from=search&seid=11510487246654887978&spm_id_from=333.337.0.0)
+
+# 2022年
+
+## 1月5日
+
+视频-[第一篇SCI投稿经验](https://www.bilibili.com/video/BV1nb4y1v7iD?spm_id_from=333.851.b_7265636f6d6d656e64.1)
+

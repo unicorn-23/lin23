@@ -40,7 +40,7 @@ P5
 -   [x] 概述
 -   [x] 变量
 -   [x] 控制结构
--   [ ] OOP
+-   [x] OOP
 -   [x] 数组
 -   [ ] API
 -   [ ] 异常和处理
@@ -265,3 +265,16 @@ P5
 
 张锡纯
 
+# 经典path
+
+## 儒家
+
+[大学](https://www.bilibili.com/video/BV1X4411a7xc?from=search&seid=12735686106369701212&spm_id_from=333.337.0.0)
+
+[中庸](https://www.bilibili.com/video/BV1Fp4y1B7G7?from=search&seid=12735686106369701212&spm_id_from=333.337.0.0)
+
+[论语](https://www.bilibili.com/video/BV1X4411g7oN?from=search&seid=12735686106369701212&spm_id_from=333.337.0.0)
+
+## 道家
+
+[道德经](https://www.bilibili.com/video/BV1Kv411P7gD?p=17)
